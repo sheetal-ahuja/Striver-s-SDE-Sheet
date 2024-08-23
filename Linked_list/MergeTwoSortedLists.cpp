@@ -1,4 +1,4 @@
-// Slow and Fast Approach as it takes Space as O(1)   wherer as Brute Force Takes O(N+N) Time Complexity -> O(N+N)
+// Create a Temp Node and compare and add to List as it takes Space as O(1)   whereas as Brute Force Takes O(N+N) Time Complexity -> O(N+N)
 
 ListNode* mergeTwoLists(ListNode* L1, ListNode* L2) {
         if(L1==NULL)
